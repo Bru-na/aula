@@ -1,0 +1,78 @@
+element.style{
+}
+/*representa o id classe bar(sobrepoe a classe)*/
+#navbar{
+
+}/**/
+.imgbanner{
+    margin-top:25px;  
+	margin-right:400px ;
+	margin-left:450px ;
+	border: 1px solid blue;
+
+}
+/*representa a classe navbar*/
+.navbar{
+	padding:5px;
+	background-color: rgb(231,222,190);
+	background-size:50px 30px 100px;
+	box-shadow: 5px solid pink;
+	position:fixed ;
+	border-color:#7d695f	
+	border-color:#dfa435:
+	height:200px;
+	width: 100%;
+	bottom: 10;
+
+}
+.navbar a{
+	margin-right: 100px ;
+	margin-left: ;
+	font-size: 20px;
+	font-style:;
+	font-family:"Aleo light" ;
+	
+	background-color: 2px solid orange;
+	text-decoration: none;
+	color: brown;
+
+
+}
+.home{
+	margin-left: ;
+	margin-right: ;
+	margin-top: ;
+	width: 50px;
+	height:70px;
+	border:1px solid green;
+
+}
+
+.sobre{
+	margin-right: ;
+	margin-left: ;
+	margin-top: ;
+	border: ;
+	width: ;
+	height: ;
+	border-color: ;
+
+}
+
+.contato{
+
+}
+
+li{
+	float:left; 
+
+	margin-right: 100px;
+	list-style-type: none;
+
+
+
+
+
+}
+
+
